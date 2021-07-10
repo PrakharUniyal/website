@@ -19,8 +19,8 @@ feature:
 - description: C++
   icon: laptop-code
   icon_pack: fas
-  name: Coding
-- description: Node
+  name: Programming
+- description: NodeJS
   icon: code-branch
   icon_pack: fas
   name: Development
