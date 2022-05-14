@@ -27,7 +27,7 @@ feature:
 - description: Python
   icon: brain
   icon_pack: fas
-  name: Machine Learning
+  name: ML/DL
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
