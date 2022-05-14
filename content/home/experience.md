@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Full Stack Development Intern
+    company: Couture.ai
     company_url: ''
     company_logo: org-gc
     location: California
@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Backend Development Intern
+    company: MiBi Services
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Online
+    date_start: '2021-02-01'
+    date_end: '2021-03-31'
+    description: Worked as a back-end development intern at MiBi Services. Helped in designing the data models for the Django based application. Implemented resolvers for various queries and mutations using GraphQL.
 
 design:
   columns: '2'
