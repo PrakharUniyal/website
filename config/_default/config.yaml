@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Prakhar Uniyal # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'https://uniyal.xyz/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -66,3 +66,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

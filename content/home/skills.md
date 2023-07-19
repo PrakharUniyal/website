@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: C++
+- description: C++ · Python · TypeScript<br>Golang · Java · PHP<br>Bash · Ruby
+  icon: terminal
+  icon_pack: fas
+  name: Languages
+- description: Django · ExpressJS · Spring Boot<br>PostgreSQL · MongoDB · Redis<br>React · MaterialUI
   icon: laptop-code
   icon_pack: fas
-  name: Programming
-- description: NodeJS
+  name: Development
+- description: Docker · Kubernetes · Terraform<br>Prometheus · ELK · Graphana<br>Git · GitHub Actions
   icon: code-branch
   icon_pack: fas
-  name: Development
-- description: Python
-  icon: brain
-  icon_pack: fas
-  name: ML/DL
+  name: DevOps
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

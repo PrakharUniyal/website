@@ -6,28 +6,28 @@ title: Prakhar Uniyal
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Indian Institute of Technology Mandi
-  url: https://www.iitmandi.ac.in/
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Currently exploring opportunities in software development
 
 # Interests to show in About widget
 interests:
-- Software Development
-- Machine Learning
-- Computer Networking
+- Writing Code
+- Analyzing Data
+- Playing Chess
 
 # Education to show in About widget
 education:
   courses:
-  - course: BTech in Computer Science and Engineering
-    institution: Indian Institute of Technology Mandi
-    year: 2022
+  - course: BTech, Computer Science Engineering
+    institution: IIT Mandi
+    year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,6 +57,6 @@ email: "prakharjuniyal@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Final year undergraduate student in the School of Computing and Electrical Engineering (SCEE) at Indian Institute of Technology Mandi, majoring in Computer Science and Engineering.
+I am an entry-level Software Engineer with experience building applications using frameworks and tools of Python and NodeJS ecosystems. I have also worked with devops tools such as Docker, Kubernetes, various telemetry tools, and cloud resources offered by AWS. I also have some experience in frontend development with React.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Check out my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
